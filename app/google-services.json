@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546773876907",
+    "project_id": "simple-todo-list-chrriss",
+    "storage_bucket": "simple-todo-list-chrriss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546773876907:android:8e57d2e4b4e1f47b5eb7ee",
+        "android_client_info": {
+          "package_name": "com.chrrissoft.simpletodolist_tasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZz7ApzJmnRCoHgjHiqHqqbshedvvHdLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

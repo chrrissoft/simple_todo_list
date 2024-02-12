@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple ToDo List</string>
+    <string name="loading">Loading</string>
+
+    <string name="banner_id" translatable="false">ca-app-pub-2120704464179014/7369364680</string>
+    <string name="test_banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="test_app_ads_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="real_app_ads_id" translatable="false">ca-app-pub-2120704464179014~1276968746</string>
+</resources>
